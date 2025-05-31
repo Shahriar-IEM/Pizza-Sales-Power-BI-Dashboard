@@ -2,7 +2,7 @@
 
 This repository contains an interactive Power BI dashboard analyzing the sales performance of a pizza business for the year 2024. The dashboard provides a comprehensive overview of key sales metrics, customer behavior, and performance trends — transforming raw data into business insights that can drive smarter decisions.
 
-![Pizza Sales Dashboard](./Dashboard%20Screenshot.png)
+![Pizza-Sales-Power-BI-Dashboard](./Dashboard%20Screenshot.png)
 
 ## 📊 Project Overview
 
